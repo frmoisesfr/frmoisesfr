@@ -1,85 +1,81 @@
-<!-- ===================== -->
-<!-- 🧬 IDENTIDAD DIGITAL CYBER IA -->
-<!-- ===================== -->
+# 👋 Hola, soy **Moisés Fernández Ruiz**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00e5ff&height=200&section=header&text=frMoisesfr%20SYSTEM%20ACTIVE&fontSize=28&fontColor=00e5ff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F5FF&center=true&vCenter=true&width=1000&lines=IA+ENGINE+ONLINE;SOFTWARE+ARCHITECTURE+ACTIVE;EDUCATIONAL+SYSTEM+RUNNING;GAME+DEV+%7C+WEB+%7C+XR+%7C+AI"/>
-</p>
+### 💻 Profesor de Informática | 🚀 Ingeniero de Software | 🤖 Entusiasta de la IA | 🎓 Innovador Educativo
 
 ---
 
-# 👋 SISTEMA IDENTIFICADO: **Moisés Fernández Ruiz**
+## 🌟 Sobre mí
 
-### 💻 Software Architect | 🤖 AI Engineer | 🎮 Game Developer | 🎓 Education Systems Designer
+Trabajo en la intersección entre el **desarrollo de software**, la **inteligencia artificial**, las **tecnologías web**, el **desarrollo de videojuegos** y la **educación digital**.
 
----
+Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyectos innovadores, recursos educativos y soluciones prácticas que impulsen a estudiantes y profesionales en un mundo digital en constante evolución.
 
-## 🛰️ STATUS DEL SISTEMA (LIVE CORE)
-
-<p align="center">
-
-![STATUS](https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge)
-![AI CORE](https://img.shields.io/badge/AI%20CORE-INITIALIZED-00c6ff?style=for-the-badge)
-![EDU ENGINE](https://img.shields.io/badge/EDUCATION%20ENGINE-RUNNING-ffcc00?style=for-the-badge)
-![SECURITY](https://img.shields.io/badge/SECURITY-LOCKED-ff0055?style=for-the-badge)
-
-</p>
+> 💡 *"Aprender no termina nunca; cada nuevo descubrimiento revela cuánto queda por explorar."*
 
 ---
 
-## 📡 DASHBOARD PRINCIPAL (NASA / OPENAI STYLE)
+## 🎯 Áreas de interés
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frmoisesfr&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🧠 NEURAL ACTIVITY GRAPH (RED GLOBAL DE CONOCIMIENTO)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frmoisesfr&theme=react-dark&hide_border=true&area=true&custom_title=NEURAL%20ACTIVITY%20MAP"/>
-</p>
+🔹 Inteligencia Artificial y Aprendizaje Automático  
+🔹 Ingeniería de Software  
+🔹 Desarrollo Web  
+🔹 Desarrollo de Videojuegos  
+🔹 Diseño 3D y Realidad Extendida (AR/VR/XR)  
+🔹 Tecnología Educativa  
+🔹 Desarrollo Open Source  
+🔹 Innovación y Transformación Digital  
 
 ---
 
-## 🎮 GAMIFICATION ENGINE (PROFILE RPG MODE)
+## 🛠️ Tecnologías y herramientas
 
-<p align="center">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🏆 **ROL ACTUAL:** Arquitecto de Sistemas Educativos IA  
-⚡ **XP TOTAL:** 9.420  
-🧠 **SKILL PRINCIPAL:** Inteligencia Artificial Aplicada  
-🎯 **MISIÓN ACTIVA:** Transformación Educativa Digital  
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</p>
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-
-![LEVEL](https://img.shields.io/badge/NIVEL-47-00e5ff?style=for-the-badge)
-![XP](https://img.shields.io/badge/XP-9420-00ff88?style=for-the-badge)
-![QUEST](https://img.shields.io/badge/QUEST-EDUCATION%20REBUILD-ff00ff?style=for-the-badge)
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
-## 🧬 ARQUITECTURA DEL SISTEMA
+## 🎓 Enfoque actual
 
-```txt
-CORE SYSTEMS:
-├── AI ENGINE → modelado inteligente + automatización
-├── SOFTWARE ENGINE → arquitectura full-stack
-├── GAME ENGINE → Unity + experiencias interactivas
-├── EDU ENGINE → sistemas de aprendizaje adaptativo
-└── XR ENGINE → AR/VR immersive systems
+🔭 Desarrollo de software educativo y herramientas de aprendizaje basadas en IA  
+🌱 Explorando inteligencia artificial, tecnologías XR y desarrollo de videojuegos  
+👨‍🏫 Docente de Informática, Programación, Bases de Datos e Ingeniería de Software  
+🚀 Creando soluciones innovadoras que unen educación y tecnología  
+
+---
+
+## 🤝 Filosofía
+
+✨ La tecnología es más poderosa cuando se comparte.  
+✨ La innovación crece con la colaboración, el trabajo en equipo y el aprendizaje continuo.  
+✨ El conocimiento abierto crea oportunidades para todos.  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact)
+
+---
+
+## 🌐 Contacto
+
+📺 YouTube: https://www.youtube.com/@frMoisesfr  
+💼 LinkedIn: https://www.linkedin.com/in/mois%C3%A9s-fern%C3%A1ndez-ruiz/  
+📫 Email: frmoisesfr@gmail.com  
+
+---
+
+### 🚀 Construyendo el futuro de la educación, el software y la innovación.
