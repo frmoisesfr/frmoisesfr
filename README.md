@@ -1,86 +1,148 @@
-# 👋 Hi, I'm **Moisés Fernández Ruiz**
-**Profesor Técnico de FP** | Software Developer | Educational Innovator
+# 👋 Hola, soy **Moisés Fernández Ruiz**
+
+**Profesor Técnico de FP** | Desarrollador de Software | Innovador Educativo
 
 ---
 
-## 🎯 About Me
+## 🎯 Sobre Mí
 
-I'm a **Computer Science Teacher** and **Software Developer** with a passion for transforming education through technology. I design and build **interactive learning experiences**, **educational software**, and **game development projects** that inspire students to embrace computing and innovation.
+Soy **Profesor de Informática** y **Desarrollador de Software** apasionado por transformar la educación a través de la tecnología. Diseño **experiencias de aprendizaje interactivas**, **software educativo** y **proyectos de videojuegos** que inspiran a estudiantes a abrirse al mundo de la computación.
 
-My expertise spans **Web Development**, **AI/Machine Learning**, **Video Game Development**, and **Digital Education**—always with a focus on making complex concepts accessible and engaging.
+Mis especialidades incluyen **Desarrollo Web**, **Inteligencia Artificial**, **Desarrollo de Videojuegos** y **Educación Digital**. Mi objetivo es hacer los conceptos complejos accesibles y atractivos.
 
-> 💡 *"Learning never ends; every new discovery reveals how much more there is to explore."*
-
----
-
-## 🚀 What I Do
-
-🔹 **Teach** Computer Science, Programming, Databases & Software Development (ESO, Bachillerato, FP)  
-🔹 **Build** polished, self-contained educational apps (React, HTML/JS, Three.js)  
-🔹 **Create** interactive learning resources on YouTube (@frMoisesfr)  
-🔹 **Design** educational games, simulations, and gamified tools  
-🔹 **Explore** AI, Machine Learning, XR/AR, 3D Design, and Game Development  
+> 💡 *"El aprendizaje nunca termina; cada descubrimiento revela cuánto más hay por explorar."*
 
 ---
 
-## 💪 Tech Stack
+## 🚀 Lo Que Hago
 
-**Frontend:** HTML5, CSS3, JavaScript, React, Three.js, Tone.js, Tailwind CSS  
-**Backend & Databases:** Python, Java, C#, MySQL, Supabase  
-**Game Development:** Unity, Godot, GameMaker  
-**Design & Multimedia:** Blender, GIMP, Video Editing  
-**DevOps & Tools:** Git, GitHub, Docker, VS Code, PowerShell  
-
----
-
-## 🎓 Featured Projects
-
-🎮 **Interactive Educational Apps** – Music Adventure, BitWorld (number systems), NIM Game  
-🎯 **Game Development** – Arcade-style games, roguelikes, simulation games  
-🤖 **AI & ML Resources** – Facial recognition, Micro:bit + ML tutorials  
-🛠️ **3D Design** – Low-poly assets, procedural generation, Blender projects  
-📚 **Courses & Guides** – GIMP tutorials, video editing, laser cutter workshops  
+- **👨‍🏫 Enseño** Informática, Programación, Bases de Datos y Desarrollo de Software en ESO, Bachillerato y FP
+- **💻 Desarrollo** aplicaciones educativas interactivas (React, HTML/JS, Three.js)
+- **📺 Creo** contenido educativo en YouTube ([@frMoisesfr](https://www.youtube.com/@frMoisesfr))
+- **🎮 Diseño** juegos educativos, simulaciones y herramientas gamificadas
+- **🤖 Exploro** IA, Machine Learning, XR/AR, Diseño 3D y Videojuegos
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💪 Tecnologías
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<details>
+<summary><b>Frontend</b></summary>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Backend & Bases de Datos</b></summary>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Desarrollo de Juegos & 3D</b></summary>
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Herramientas & Otros</b></summary>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-695F52?style=flat&logo=gimp&logoColor=white)
+
+</details>
 
 ---
 
-## ✨ Philosophy
+## 🎓 Proyectos Destacados
 
-> Technology is most powerful when **shared and taught**.  
-> Innovation thrives through **collaboration, mentorship, and continuous learning**.  
-> Open knowledge **creates opportunities** for everyone.
+<details>
+<summary><b>📱 Aplicaciones Educativas Interactivas</b></summary>
+
+- **Music Adventure** – Aplicación educativa musical en React con Tone.js
+- **BitWorld** – Sistemas de numeración y ASCII con modo proyección para clase
+- **Juego del NIM** – Teoría de juegos combinatoria con IA y tutorial
+- **Simulador de Ciclo de Vida** – Educación biológica interactiva
+
+</details>
+
+<details>
+<summary><b>🎮 Desarrollo de Juegos</b></summary>
+
+- **Roguelikes y juegos de supervivencia** con canvas y game loops avanzados
+- **Juegos de simulación** – Gestión de equipos, carreras, mundos virtuales
+- **Juegos de arcade** – Flappy Bird educativo, juegos de plataformas
+- **Herramientas de Game Design** – Recursos para estudiantes
+
+</details>
+
+<details>
+<summary><b>🤖 Recursos de IA & Aprendizaje Automático</b></summary>
+
+- **Reconocimiento facial con Python** – Tutoriales prácticos
+- **Micro:bit + Machine Learning** – IoT educativo
+- **Cursos de IA** – Conceptos y aplicaciones reales
+- **Análisis de datos** – Visualización e interpretación
+
+</details>
+
+<details>
+<summary><b>🛠️ Diseño 3D & Multimedia</b></summary>
+
+- **Assets low-poly para Unity** – Personajes, objetos, escenarios
+- **Generación procedural** con Blender
+- **Tutoriales GIMP** – Edición de imágenes para educadores
+- **Edición de vídeo** – Guías completas para YouTube
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Mi Filosofía
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact)
+> La tecnología es más poderosa cuando se **comparte y se enseña**.
 
----
+> La innovación florece a través de **colaboración, mentoría y aprendizaje continuo**.
 
-## 🌐 Let's Connect
-
-📺 **YouTube:** [@frMoisesfr](https://www.youtube.com/@frMoisesfr)  
-💼 **LinkedIn:** [Moisés Fernández Ruiz](https://www.linkedin.com/in/moisés-fernández-ruiz/)  
-📫 **Email:** [frmoisesfr@gmail.com](mailto:frmoisesfr@gmail.com)  
-🌍 **IES Cura Valera** – Huércal-Overa, Spain
+> El conocimiento abierto **crea oportunidades** para todos.
 
 ---
 
-### 🚀 Building the future, one student and one project at a time.
+## 📊 Mis Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact&theme=default)
+
+---
+
+## 🌐 Conéctate Conmigo
+
+| Plataforma | Enlaces |
+|-----------|---------|
+| 📺 **YouTube** | [@frMoisesfr](https://www.youtube.com/@frMoisesfr) |
+| 💼 **LinkedIn** | [Moisés Fernández Ruiz](https://www.linkedin.com/in/moisés-fernández-ruiz/) |
+| 📧 **Email** | frmoisesfr@gmail.com |
+| 🏫 **Centro** | IES Cura Valera, Huércal-Overa, España |
+
+---
+
+### 🚀 Construyendo el futuro, un estudiante y un proyecto a la vez.
