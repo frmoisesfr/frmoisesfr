@@ -1,47 +1,47 @@
 <!-- ===================== -->
-<!-- 🎨 BANNER BRANDING -->
+<!-- 🤖 HERO BANNER CYBER IA -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=frMoisesfr&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=frMoisesfr%20%7C%20IA%20%7C%20EDUCACIÓN%20%7C%20SOFTWARE&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Teacher;Software+Developer;AI+Enthusiast;Game+Developer;Educational+Innovator"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00E5FF&center=true&vCenter=true&width=800&lines=Ingeniero+de+Software+Educativo;Desarrollo+de+IA+y+Sistemas+Inteligentes;Creación+de+Videojuegos+con+Unity;Transformación+Digital+en+Educación"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm **Moisés Fernández Ruiz**
+# 👋 Hola, soy **Moisés Fernández Ruiz**
 
-### 💻 Computer Science Teacher | 🚀 Software Engineer | 🤖 AI Enthusiast | 🎓 Educational Innovator
-
----
-
-## 🌟 About Me
-
-I work at the intersection of **software development**, **artificial intelligence**, **web technologies**, **video game development**, and **digital education**.
-
-My goal is to **connect technology and learning** by designing innovative projects, educational resources, and practical solutions that empower students and professionals in a constantly evolving digital world.
-
-> 💡 *"Learning never ends; every new discovery reveals how much more there is to explore."*
+### 💻 Profesor de Informática | 🚀 Ingeniero de Software | 🤖 Especialista en IA | 🎓 Innovador Educativo
 
 ---
 
-## 🎯 Areas of Interest
+## 🌟 Sobre mí
 
-🔹 Artificial Intelligence & Machine Learning  
-🔹 Software Engineering  
-🔹 Web Development  
-🔹 Video Game Development  
-🔹 XR / AR / VR Technologies  
-🔹 Educational Technology  
-🔹 Open Source Development  
-🔹 Innovation & Digital Transformation  
+Trabajo en la intersección entre el **desarrollo de software**, la **inteligencia artificial**, las **tecnologías web**, el **desarrollo de videojuegos** y la **educación digital**.
+
+Mi objetivo es **conectar la tecnología con el aprendizaje**, creando proyectos innovadores, herramientas educativas y soluciones prácticas que impulsen la formación en un mundo digital en constante evolución.
+
+> 💡 *“Aprender no termina nunca; cada descubrimiento abre nuevas posibilidades.”*
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎯 Áreas de interés
+
+🔹 Inteligencia Artificial y Machine Learning  
+🔹 Ingeniería de Software  
+🔹 Desarrollo Web  
+🔹 Videojuegos con Unity  
+🔹 Realidad Aumentada y Realidad Virtual (XR)  
+🔹 Tecnología Educativa  
+🔹 Open Source  
+🔹 Innovación Digital  
+
+---
+
+## 🛠️ Tecnologías y herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,30 +56,33 @@ My goal is to **connect technology and learning** by designing innovative projec
 
 ---
 
-## 🚀 Featured Projects (Portfolio)
+## 🚀 Proyectos destacados (Portfolio)
+
+### 🃏 Tarjetas de proyectos
 
 <p align="center">
 
-🔹 <b>🎮 Educational Game Engine (Unity)</b>  
-Interactive learning game focused on programming fundamentals for students.
+<a href="https://github.com/frmoisesfr/ai-learning-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=frmoisesfr&repo=ai-learning-assistant&theme=tokyonight"/>
+</a>
 
-🔹 <b>🤖 AI Learning Assistant</b>  
-System that generates personalized educational content using artificial intelligence.
+<a href="https://github.com/frmoisesfr/unity-educational-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=frmoisesfr&repo=unity-educational-game&theme=tokyonight"/>
+</a>
 
-🔹 <b>🌐 Interactive Web Classroom</b>  
-Web platform for teaching programming with live simulations and exercises.
+<a href="https://github.com/frmoisesfr/web-classroom-interactive">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=frmoisesfr&repo=web-classroom-interactive&theme=tokyonight"/>
+</a>
 
-🔹 <b>📊 FP Dual Evaluation System</b>  
-Tool for automating evaluation based on learning outcomes and criteria.
-
-🔹 <b>🧠 AR Educational Experiences</b>  
-Augmented reality applications for immersive learning in classrooms.
+<a href="https://github.com/frmoisesfr/fp-dual-evaluation-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=frmoisesfr&repo=fp-dual-evaluation-system&theme=tokyonight"/>
+</a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true&theme=tokyonight"/>
@@ -91,7 +94,7 @@ Augmented reality applications for immersive learning in classrooms.
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frmoisesfr&theme=react-dark&hide_border=true"/>
@@ -99,23 +102,23 @@ Augmented reality applications for immersive learning in classrooms.
 
 ---
 
-## 👁️ Profile Views
+## 👁️ Visitas al perfil
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frmoisesfr&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=frmoisesfr&label=Visitas%20al%20perfil&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🤝 Philosophy
+## 🤝 Filosofía
 
-✨ Technology becomes powerful when it is shared  
-✨ Innovation grows through collaboration and continuous learning  
-✨ Open knowledge creates opportunity for everyone  
+✨ La tecnología cobra sentido cuando se comparte  
+✨ La innovación nace de la colaboración  
+✨ El conocimiento abierto transforma el futuro  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Contacto
 
 📺 YouTube: https://www.youtube.com/@frMoisesfr  
 💼 LinkedIn: https://www.linkedin.com/in/mois%C3%A9s-fern%C3%A1ndez-ruiz/  
@@ -127,4 +130,4 @@ Augmented reality applications for immersive learning in classrooms.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
 
-### 🚀 Building the future of education, software, and AI innovation.
+### 🚀 Construyendo el futuro de la educación, el software y la inteligencia artificial
