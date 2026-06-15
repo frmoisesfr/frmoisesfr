@@ -73,6 +73,7 @@ Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyec
 💼 LinkedIn: https://www.linkedin.com/in/mois%C3%A9s-fern%C3%A1ndez-ruiz-74418056
 
 📫 Email: frmoisesfr@gmail.com
+
 ---
 
 ### 🚀 Construyendo el futuro de la educación, el software y la innovación.
