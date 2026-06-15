@@ -10,7 +10,7 @@ Trabajo continuamente con el **desarrollo de software**, **inteligencia artifici
 
 Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyectos innovadores, recursos educativos y soluciones prácticas que impulsen a estudiantes y profesionales en un mundo digital en constante evolución.
 
-> 💡 *"Nunca se termina de Aprender; cada nuevo descubrimiento revela cuánto queda por explorar."*
+> 💡 *"Aprender no se termina nunca; cada nuevo descubrimiento revela cuánto queda por explorar."*
 
 ---
 
