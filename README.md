@@ -67,11 +67,11 @@ Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyec
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact)
 
 ---
-
 ## 🌐 Contacto
+📺 YouTube: https://www.youtube.com/@frMoisesfr
 
-📺 YouTube: https://www.youtube.com/@frMoisesfr  
 💼 LinkedIn: https://www.linkedin.com/in/mois%C3%A9s-fern%C3%A1ndez-ruiz-74418056
+
 📫 Email: frmoisesfr@gmail.com
 ---
 
