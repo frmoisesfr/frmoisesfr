@@ -64,7 +64,6 @@ Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyec
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact)
 
 ---
