@@ -6,7 +6,7 @@
 
 ## 🌟 Sobre mí
 
-Trabajo en la intersección entre el **desarrollo de software**, la **inteligencia artificial**, las **tecnologías web**, el **desarrollo de videojuegos** y la **educación digital**.
+Trabajo continuamente con el **desarrollo de software**, **inteligencia artificial**, **tecnologías web**, **desarrollo de videojuegos**, **hardware** y **educación digital**.
 
 Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyectos innovadores, recursos educativos y soluciones prácticas que impulsen a estudiantes y profesionales en un mundo digital en constante evolución.
 
@@ -20,6 +20,7 @@ Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyec
 🔹 Ingeniería de Software  
 🔹 Desarrollo Web  
 🔹 Desarrollo de Videojuegos  
+🔹 Hardware
 🔹 Diseño 3D y Realidad Extendida (AR/VR/XR)  
 🔹 Tecnología Educativa  
 🔹 Desarrollo Open Source  
@@ -32,14 +33,12 @@ Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyec
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
