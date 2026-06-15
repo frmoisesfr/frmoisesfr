@@ -1,18 +1,3 @@
-<!-- ===================== -->
-<!-- 🧭 IDENTIDAD -->
-<!-- ===================== -->
-
-<p align="center">
-🚀 frMoisesfr
-</p>
-
-<p align="center">
-![STATUS](https://img.shields.io/badge/STATUS-ACTIVO-00c853?style=for-the-badge)
-![FOCUS](https://img.shields.io/badge/FOCUS-IA%20%7C%20EDUCACI%C3%93N%20%7C%20SOFTWARE-00bcd4?style=for-the-badge)
-</p>
-
-<p align="center">────────────────────────</p>
-
 # 👋 Hola, soy **Moisés Fernández Ruiz**
 
 ### 💻 Profesor de Informática | 🚀 Ingeniero de Software | 🤖 Entusiasta de la IA | 🎓 Innovador Educativo
@@ -21,35 +6,27 @@
 
 ## 🌟 Sobre mí
 
-Trabajo continuamente en el diseño y desarrollo de **soluciones tecnológicas aplicadas a la educación**, combinando:
+Trabajo continuamente con el **desarrollo de software**, **inteligencia artificial**, **tecnologías web**, **desarrollo de videojuegos**, **hardware** y **educación digital**.
 
-- software moderno  
-- inteligencia artificial aplicada  
-- sistemas interactivos de aprendizaje  
-- desarrollo de videojuegos y experiencias XR  
-
-Mi objetivo es claro:  
-**transformar la educación mediante tecnología útil, práctica y escalable.**
+Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyectos innovadores, recursos educativos y soluciones prácticas que impulsen a estudiantes y profesionales en un mundo digital en constante evolución.
 
 > 💡 *"Aprender no termina nunca; cada nuevo descubrimiento revela cuánto queda por explorar."*
 
 ---
 
-## 🎯 Áreas de especialización
+## 🎯 Áreas de interés
 
-Enfoque estructurado como **arquitectura de sistemas tecnológicos**:
-
-🧠 IA & Ciencia de Datos  
-💻 Ingeniería de Software & Sistemas  
-🌐 Desarrollo Web y Aplicaciones  
-🎮 Videojuegos y Experiencias XR (AR/VR)  
-🧩 Hardware y Sistemas Embebidos  
-🎓 Tecnología Educativa (EdTech)  
-🚀 Innovación y Transformación Digital  
+🔹 Inteligencia Artificial y Aprendizaje Automático  
+🔹 Ingeniería de Software  
+🔹 Desarrollo Web  
+🔹 Desarrollo de Videojuegos  
+🔹 Hardware
+🔹 Diseño 3D y Realidad Extendida (AR/VR/XR)  
+🔹 Tecnología Educativa  
+🔹 Desarrollo Open Source  
+🔹 Innovación y Transformación Digital  
 
 ---
-
-<p align="center">────────────────────────</p>
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -67,54 +44,37 @@ Enfoque estructurado como **arquitectura de sistemas tecnológicos**:
 
 ---
 
-<p align="center">────────────────────────</p>
+## 🎓 Enfoque actual
 
-## 📊 Dashboard de actividad (tipo control de misión)
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frmoisesfr&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+🔭 Desarrollo de software educativo y herramientas de aprendizaje basadas en IA  
+🌱 Explorando inteligencia artificial, tecnologías XR y desarrollo de videojuegos  
+👨‍🏫 Docente de Informática, Programación, Bases de Datos e Ingeniería de Software  
+🚀 Creando soluciones innovadoras que unen educación y tecnología  
 
 ---
-
-<p align="center">────────────────────────</p>
 
 ## 🤝 Filosofía
 
-✨ La tecnología solo tiene valor cuando genera impacto real  
-✨ La innovación nace de la práctica y la colaboración  
-✨ El conocimiento abierto acelera el progreso colectivo  
+✨ La tecnología es más poderosa cuando se comparte.  
+✨ La innovación crece con la colaboración, el trabajo en equipo y el aprendizaje continuo.  
+✨ El conocimiento abierto crea oportunidades para todos.  
 
 ---
 
-## 📡 Estado del sistema
+## 📊 Estadísticas de GitHub
 
-📌 Perfil activo en desarrollo continuo  
-📌 Enfoque en IA aplicada a educación y software  
-📌 Exploración constante de nuevas tecnologías  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact)
 
 ---
 
-## 📞 Contacto y colaboración
+## 🌐 Contacto
 
 📺 YouTube: https://www.youtube.com/@frMoisesfr  
 💼 LinkedIn: https://www.linkedin.com/in/mois%C3%A9s-fern%C3%A1ndez-ruiz/  
 📫 Email: frmoisesfr@gmail.com  
 
-📡 Disponible para colaboración en proyectos de:
-- Inteligencia Artificial aplicada  
-- Educación digital  
-- Desarrollo de software  
-- Videojuegos y XR  
-
 ---
 
-<p align="center">────────────────────────</p>
-
-### 🚀 Tecnología, educación e inteligencia artificial como motor de transformación
+### 🚀 Construyendo el futuro de la educación, el software y la innovación.
