@@ -21,6 +21,7 @@ Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyec
 🔹 Desarrollo Web  
 🔹 Desarrollo de Videojuegos  
 🔹 Hardware
+
 🔹 Diseño 3D y Realidad Extendida (AR/VR/XR)  
 🔹 Tecnología Educativa  
 🔹 Desarrollo Open Source  
