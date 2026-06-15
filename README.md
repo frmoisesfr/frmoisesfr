@@ -74,4 +74,4 @@ Mi objetivo es **conectar la tecnología con el aprendizaje**, diseñando proyec
 
 ---
 
-### 🚀 Construyendo el futuro de la educación, el software y la innovación.
+### 🚀 Creando tecnología, software e innovación para transformar la educación del futuro.
