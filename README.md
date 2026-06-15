@@ -1,148 +1,130 @@
-# 👋 Hola, soy **Moisés Fernández Ruiz**
+<!-- ===================== -->
+<!-- 🎨 BANNER BRANDING -->
+<!-- ===================== -->
 
-**Profesor Técnico de FP** | Desarrollador de Software | Innovador Educativo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=frMoisesfr&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
----
-
-## 🎯 Sobre Mí
-
-Soy **Profesor de Informática** y **Desarrollador de Software** apasionado por transformar la educación a través de la tecnología. Diseño **experiencias de aprendizaje interactivas**, **software educativo** y **proyectos de videojuegos** que inspiran a estudiantes a abrirse al mundo de la computación.
-
-Mis especialidades incluyen **Desarrollo Web**, **Inteligencia Artificial**, **Desarrollo de Videojuegos** y **Educación Digital**. Mi objetivo es hacer los conceptos complejos accesibles y atractivos.
-
-> 💡 *"El aprendizaje nunca termina; cada descubrimiento revela cuánto más hay por explorar."*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Teacher;Software+Developer;AI+Enthusiast;Game+Developer;Educational+Innovator"/>
+</p>
 
 ---
 
-## 🚀 Lo Que Hago
+# 👋 Hi, I'm **Moisés Fernández Ruiz**
 
-- **👨‍🏫 Enseño** Informática, Programación, Bases de Datos y Desarrollo de Software en ESO, Bachillerato y FP
-- **💻 Desarrollo** aplicaciones educativas interactivas (React, HTML/JS, Three.js)
-- **📺 Creo** contenido educativo en YouTube ([@frMoisesfr](https://www.youtube.com/@frMoisesfr))
-- **🎮 Diseño** juegos educativos, simulaciones y herramientas gamificadas
-- **🤖 Exploro** IA, Machine Learning, XR/AR, Diseño 3D y Videojuegos
+### 💻 Computer Science Teacher | 🚀 Software Engineer | 🤖 AI Enthusiast | 🎓 Educational Innovator
 
 ---
 
-## 💪 Tecnologías
+## 🌟 About Me
 
-<details>
-<summary><b>Frontend</b></summary>
+I work at the intersection of **software development**, **artificial intelligence**, **web technologies**, **video game development**, and **digital education**.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+My goal is to **connect technology and learning** by designing innovative projects, educational resources, and practical solutions that empower students and professionals in a constantly evolving digital world.
 
-</details>
-
-<details>
-<summary><b>Backend & Bases de Datos</b></summary>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Desarrollo de Juegos & 3D</b></summary>
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Herramientas & Otros</b></summary>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-695F52?style=flat&logo=gimp&logoColor=white)
-
-</details>
+> 💡 *"Learning never ends; every new discovery reveals how much more there is to explore."*
 
 ---
 
-## 🎓 Proyectos Destacados
+## 🎯 Areas of Interest
 
-<details>
-<summary><b>📱 Aplicaciones Educativas Interactivas</b></summary>
-
-- **Music Adventure** – Aplicación educativa musical en React con Tone.js
-- **BitWorld** – Sistemas de numeración y ASCII con modo proyección para clase
-- **Juego del NIM** – Teoría de juegos combinatoria con IA y tutorial
-- **Simulador de Ciclo de Vida** – Educación biológica interactiva
-
-</details>
-
-<details>
-<summary><b>🎮 Desarrollo de Juegos</b></summary>
-
-- **Roguelikes y juegos de supervivencia** con canvas y game loops avanzados
-- **Juegos de simulación** – Gestión de equipos, carreras, mundos virtuales
-- **Juegos de arcade** – Flappy Bird educativo, juegos de plataformas
-- **Herramientas de Game Design** – Recursos para estudiantes
-
-</details>
-
-<details>
-<summary><b>🤖 Recursos de IA & Aprendizaje Automático</b></summary>
-
-- **Reconocimiento facial con Python** – Tutoriales prácticos
-- **Micro:bit + Machine Learning** – IoT educativo
-- **Cursos de IA** – Conceptos y aplicaciones reales
-- **Análisis de datos** – Visualización e interpretación
-
-</details>
-
-<details>
-<summary><b>🛠️ Diseño 3D & Multimedia</b></summary>
-
-- **Assets low-poly para Unity** – Personajes, objetos, escenarios
-- **Generación procedural** con Blender
-- **Tutoriales GIMP** – Edición de imágenes para educadores
-- **Edición de vídeo** – Guías completas para YouTube
-
-</details>
+🔹 Artificial Intelligence & Machine Learning  
+🔹 Software Engineering  
+🔹 Web Development  
+🔹 Video Game Development  
+🔹 XR / AR / VR Technologies  
+🔹 Educational Technology  
+🔹 Open Source Development  
+🔹 Innovation & Digital Transformation  
 
 ---
 
-## ✨ Mi Filosofía
+## 🛠️ Technologies & Tools
 
-> La tecnología es más poderosa cuando se **comparte y se enseña**.
-
-> La innovación florece a través de **colaboración, mentoría y aprendizaje continuo**.
-
-> El conocimiento abierto **crea oportunidades** para todos.
-
----
-
-## 📊 Mis Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact&theme=default)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
-## 🌐 Conéctate Conmigo
+## 🚀 Featured Projects (Portfolio)
 
-| Plataforma | Enlaces |
-|-----------|---------|
-| 📺 **YouTube** | [@frMoisesfr](https://www.youtube.com/@frMoisesfr) |
-| 💼 **LinkedIn** | [Moisés Fernández Ruiz](https://www.linkedin.com/in/moisés-fernández-ruiz/) |
-| 📧 **Email** | frmoisesfr@gmail.com |
-| 🏫 **Centro** | IES Cura Valera, Huércal-Overa, España |
+<p align="center">
+
+🔹 <b>🎮 Educational Game Engine (Unity)</b>  
+Interactive learning game focused on programming fundamentals for students.
+
+🔹 <b>🤖 AI Learning Assistant</b>  
+System that generates personalized educational content using artificial intelligence.
+
+🔹 <b>🌐 Interactive Web Classroom</b>  
+Web platform for teaching programming with live simulations and exercises.
+
+🔹 <b>📊 FP Dual Evaluation System</b>  
+Tool for automating evaluation based on learning outcomes and criteria.
+
+🔹 <b>🧠 AR Educational Experiences</b>  
+Augmented reality applications for immersive learning in classrooms.
+
+</p>
 
 ---
 
-### 🚀 Construyendo el futuro, un estudiante y un proyecto a la vez.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frmoisesfr&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frmoisesfr&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frmoisesfr&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frmoisesfr&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 🤝 Philosophy
+
+✨ Technology becomes powerful when it is shared  
+✨ Innovation grows through collaboration and continuous learning  
+✨ Open knowledge creates opportunity for everyone  
+
+---
+
+## 🌐 Connect with Me
+
+📺 YouTube: https://www.youtube.com/@frMoisesfr  
+💼 LinkedIn: https://www.linkedin.com/in/mois%C3%A9s-fern%C3%A1ndez-ruiz/  
+📫 Email: frmoisesfr@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
+### 🚀 Building the future of education, software, and AI innovation.
